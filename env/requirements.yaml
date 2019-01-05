@@ -15,7 +15,7 @@ dependencies:
   version: 2.3.82
 - name: golang-template
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.23
+  version: 0.0.24
 - name: golang-template-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.12
