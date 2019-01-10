@@ -22,3 +22,6 @@ dependencies:
 - name: golang-web
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
+- name: markupkit-render-comparer
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.11
